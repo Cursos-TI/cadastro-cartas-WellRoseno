@@ -18,63 +18,64 @@ Cada país será dividido em oito estados, identificados pelas letras de A a H. 
 ### 🚩 Objetivo:
 - Criar cartas representando cidades, contendo as seguintes propriedades:
   - **População**
-  - **Área**
-  - **PIB**
-  - **Número de pontos turísticos**
-  
-### ⚙️ Funcionalidades do Sistema:
-- O sistema permitirá ao usuário cadastrar cartas de cidades, inserindo manualmente os dados via terminal de comando.
-- Após o cadastro, o sistema exibirá os dados de cada cidade de forma clara e organizada.
+    - **Área**
+      - **PIB**
+        - **Número de pontos turísticos**
+          
+          ### ⚙️ Funcionalidades do Sistema:
+          - O sistema permitirá ao usuário cadastrar cartas de cidades, inserindo manualmente os dados via terminal de comando.
+          - Após o cadastro, o sistema exibirá os dados de cada cidade de forma clara e organizada.
 
-### 📥 Entrada e 📤 Saída de Dados:
-- O usuário insere os dados de cada carta interativamente.
-- Após o cadastro, os dados são exibidos com todas as propriedades da cidade, uma por linha.
+          ### 📥 Entrada e 📤 Saída de Dados:
+          - O usuário insere os dados de cada carta interativamente.
+          - Após o cadastro, os dados são exibidos com todas as propriedades da cidade, uma por linha.
 
----
+          ---
 
-## 🛡️ Nível Aventureiro
+          ## 🛡️ Nível Aventureiro
 
-No nível Aventureiro, você expandirá o sistema para incluir propriedades calculadas, permitindo uma análise mais detalhada das cartas.
+          No nível Aventureiro, você expandirá o sistema para incluir propriedades calculadas, permitindo uma análise mais detalhada das cartas.
 
-### 🆕 Diferença em relação ao Nível Novato:
-- **Novas Propriedades Calculadas:**
-  - **Densidade Populacional:** População dividida pela área da cidade.
-  - **PIB per Capita:** PIB total dividido pela população.
+          ### 🆕 Diferença em relação ao Nível Novato:
+          - **Novas Propriedades Calculadas:**
+            - **Densidade Populacional:** População dividida pela área da cidade.
+              - **PIB per Capita:** PIB total dividido pela população.
 
-### ⚙️ Funcionalidades do Sistema:
-- O sistema agora calculará automaticamente a Densidade Populacional e o PIB per Capita com base nos dados inseridos.
-- Essas novas propriedades serão adicionadas às informações exibidas para cada cidade.
+              ### ⚙️ Funcionalidades do Sistema:
+              - O sistema agora calculará automaticamente a Densidade Populacional e o PIB per Capita com base nos dados inseridos.
+              - Essas novas propriedades serão adicionadas às informações exibidas para cada cidade.
 
-### 📥 Entrada e 📤 Saída de Dados:
-- O usuário continua inserindo os dados de cada carta interativamente.
-- O sistema exibirá os dados, incluindo as novas propriedades calculadas, de forma clara e organizada.
+              ### 📥 Entrada e 📤 Saída de Dados:
+              - O usuário continua inserindo os dados de cada carta interativamente.
+              - O sistema exibirá os dados, incluindo as novas propriedades calculadas, de forma clara e organizada.
 
----
+              ---
 
-## 🏆 Nível Mestre
+              ## 🏆 Nível Mestre
 
-No nível Mestre, você implementará comparações entre as cartas, utilizando operadores relacionais e manipulando grandes números com precisão.
+              No nível Mestre, você implementará comparações entre as cartas, utilizando operadores relacionais e manipulando grandes números com precisão.
 
-### 🆕 Diferença em relação ao Nível Aventureiro:
-- **Comparação de Cartas:**
-  - O sistema permitirá ao usuário comparar duas cartas com base nas propriedades inseridas e calculadas.
-  - Cada carta terá um "Super Poder", que é a soma de todas as propriedades.
-  
-### ⚙️ Funcionalidades do Sistema:
-- O sistema utilizará operadores relacionais para determinar a carta vencedora com base nas propriedades comparadas.
-- A comparação considerará:
-  - **Densidade Populacional:** Vence a carta com menor valor.
-  - **Outras Propriedades:** Vence a carta com maior valor.
-- O resultado das comparações será exibido claramente para cada propriedade.
+              ### 🆕 Diferença em relação ao Nível Aventureiro:
+              - **Comparação de Cartas:**
+                - O sistema permitirá ao usuário comparar duas cartas com base nas propriedades inseridas e calculadas.
+                  - Cada carta terá um "Super Poder", que é a soma de todas as propriedades.
+                    
+                    ### ⚙️ Funcionalidades do Sistema:
+                    - O sistema utilizará operadores relacionais para determinar a carta vencedora com base nas propriedades comparadas.
+                    - A comparação considerará:
+                      - **Densidade Populacional:** Vence a carta com menor valor.
+                        - **Outras Propriedades:** Vence a carta com maior valor.
+                        - O resultado das comparações será exibido claramente para cada propriedade.
 
-### 📥 Entrada e 📤 Saída de Dados:
-- O usuário insere as cartas a serem comparadas.
-- O sistema exibe os resultados das comparações, indicando a carta vencedora para cada propriedade.
+                        ### 📥 Entrada e 📤 Saída de Dados:
+                        - O usuário insere as cartas a serem comparadas.
+                        - O sistema exibe os resultados das comparações, indicando a carta vencedora para cada propriedade.
 
----
+                        ---
 
-Ao concluir todos os níveis, você terá criado um sistema incial para o jogo Super Trunfo, com funcionalidades de cadastro, cálculo e comparação de propriedades. 
+                        Ao concluir todos os níveis, você terá criado um sistema incial para o jogo Super Trunfo, com funcionalidades de cadastro, cálculo e comparação de propriedades. 
 
-Boa sorte e divirta-se programando!
+                        Boa sorte e divirta-se programando!
 
-Equipe de Ensino - MateCheck
+                        Equipe de Ensino - MateCheck
+                        
